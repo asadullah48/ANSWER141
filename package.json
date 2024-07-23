@@ -1,0 +1,20 @@
+{
+  "name": "answer141",
+  "version": "1.0.0",
+  "description": "Discuss the significance of the await reserved word in asynchronous JavaScript.",
+  "main": "ans141.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asadullah48/ANSWER141.git"
+  },
+  "author": "00458550",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asadullah48/ANSWER141/issues"
+  },
+  "homepage": "https://github.com/asadullah48/ANSWER141#readme"
+}
